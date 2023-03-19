@@ -1,0 +1,7 @@
+2023-03-19 10:20:20.565  INFO 9704 --- [main] com.nowcoder.community.LoggerTests       : Starting LoggerTests using Java 1.8.0_202 on DESKTOP-U7400UM with PID 9704 (started by HP in E:\CommunityProject\community)
+2023-03-19 10:20:20.567  INFO 9704 --- [main] com.nowcoder.community.LoggerTests       : No active profile set, falling back to 1 default profile: "default"
+2023-03-19 10:20:21.811  INFO 9704 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2023-03-19 10:20:22.155  INFO 9704 --- [main] com.nowcoder.community.LoggerTests       : Started LoggerTests in 1.83 seconds (JVM running for 2.539)
+2023-03-19 10:20:22.349  INFO 9704 --- [main] com.nowcoder.community.LoggerTests       : hello info
+2023-03-19 10:20:22.349  WARN 9704 --- [main] com.nowcoder.community.LoggerTests       : hello warn
+2023-03-19 10:20:22.349 ERROR 9704 --- [main] com.nowcoder.community.LoggerTests       : hello log
